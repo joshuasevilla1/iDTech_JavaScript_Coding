@@ -1,2 +1,2 @@
 # JavaScript Coding
-hfdafdsagrasg
+Random text
