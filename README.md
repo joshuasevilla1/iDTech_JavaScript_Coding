@@ -1,2 +1,2 @@
 # JavaScript Coding
-Random text
+test
